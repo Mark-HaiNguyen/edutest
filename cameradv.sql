@@ -370,8 +370,8 @@ CREATE TABLE `sw_options` (
 --
 
 INSERT INTO `sw_options` (`option_id`, `option_name`, `option_value`, `autoload`) VALUES
-(1, 'siteurl', 'http://localhost:8080/cameradinhvi', 'yes'),
-(2, 'home', 'http://localhost:8080/cameradinhvi', 'yes'),
+(1, 'siteurl', 'https://mark-hainguyen.github.io/edutest/', 'yes'),
+(2, 'home', 'https://mark-hainguyen.github.io/edutest/', 'yes'),
 (3, 'blogname', 'Camera mini', 'yes'),
 (4, 'blogdescription', 'Camera mini', 'yes'),
 (5, 'users_can_register', '0', 'yes'),
